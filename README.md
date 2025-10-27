@@ -34,7 +34,7 @@ The dataset `abtest.csv` includes:
 
 ---
 
-## 🧪 Methods Used
+##  Methods Used
 
 - Exploratory Data Analysis (EDA)
 - A/B Testing (Control vs Treatment)
